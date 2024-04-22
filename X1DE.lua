@@ -28,7 +28,8 @@ Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 0
 Frame.Position = UDim2.new(0.224118322, 0, 0.0902255625, 0)
 Frame.Size = UDim2.new(0, 726, 0, 489)
-Frame.Draggable=true
+Frame.Active = true
+Frame.Draggable = true
 
 UICorner.Parent = Frame
 
